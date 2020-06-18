@@ -17,3 +17,4 @@ Helpful links for understanding bioinformatic analyses and files
 ## GATK
 
 Restricting Exome Intervals: https://gatk.broadinstitute.org/hc/en-us/articles/360035889551?id=4133
+Interval lists: https://gatk.broadinstitute.org/hc/en-us/articles/360035531852-Intervals-and-interval-lists
