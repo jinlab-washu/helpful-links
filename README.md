@@ -7,3 +7,5 @@ Bed Files:
 - Bedtools (for formatting and modifying bed,bam,vcf): https://bedtools.readthedocs.io/en/latest/content/bedtools-suite.html
 
 - Picard create sequence dictionary https://gatk.broadinstitute.org/hc/en-us/articles/360042913631-CreateSequenceDictionary-Picard-
+
+- Picard bed to interval list https://gatk.broadinstitute.org/hc/en-us/articles/360042477412-BedToIntervalList-Picard-
